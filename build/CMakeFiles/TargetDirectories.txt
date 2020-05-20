@@ -1,0 +1,14 @@
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/install/strip.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/install.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/install/local.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/list_install_components.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/edit_cache.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/CMakeFiles/rebuild_cache.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/install/local.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/install/strip.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/run.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/blackJack.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/edit_cache.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/rebuild_cache.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/list_install_components.dir
+/home/antonio/Unive/Magistrale/ComputerVision/BlackJackCounter/BlackJack_Finale/build/src/CMakeFiles/install.dir
