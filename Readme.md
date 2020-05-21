@@ -46,5 +46,4 @@ In order to test the project you can download two videos from [here](https://dri
 </p>
 
 ### Contacts
-Se avete dei dubbi sul progetto non esitate a scrivermi una e-mail: 854866 su stud.unive.it | acina04 su gmail.com
-
+If you have any doubts about the project do not hesitate to write me an e-mail:  854866[at]stud[dot]unive[dot]it | acina04[at]gmail[dot]com
